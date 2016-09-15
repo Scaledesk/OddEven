@@ -1,0 +1,391 @@
+/*
+Copyright (c) 2016 Himanshu Softtech.
+------------------------------------------------------------------
+Light color version - 5 
+color code - EF5350
+-------------------------------------------------------------------*/
+::selection {
+	color: #FFF;
+	background: #EF5350;
+}
+a {
+	color: #EF5350;
+}
+a:hover, a:focus {
+	color: #F44336;
+}
+
+/* common  css start */
+#style-switcher .bottom a.settings i, .rock_audio_player .audio-player .mejs-container .mejs-controls .mejs-time span, .rock_footer h3, .woocommerce p.stars a:focus, .woocommerce p.stars a:hover, .rockon_no_comments > i, .rockon_no_comments > h5, .rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > a:hover, a.cart-contents span {
+	color: #EF5350;
+}
+.rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current, .rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current:before, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current:before, .rockon_sidebar_wrapper .widget #recentcomments li, .btn, .btn-arrow, .rockon_sidebar_wrapper .widget.widget_meta ul li a, .comment-form input[type='submit'], .rockon_sidebar_wrapper .widget .tagcloud a, .woocommerce.single-product div.product form.cart .single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce button.button, .rockon_sidebar_wrapper .woocommerce .button:hover, .woocommerce a.button, .woocommerce a.button:hover, .woocommerce-cart table.cart input.btn, .woocommerce a.button.alt, .woocommerce a.button.alt:hover, .rockon_sidebar_wrapper .widget table tbody td#today, .woocommerce input.button.alt, .woocommerce .woocommerce-checkout-payment input.button.alt, .woocommerce #respond input#submit{
+	background-color: #EF5350;
+}
+.rock_main_event:hover .rock_event_date .event_date, .rockon_sidebar_wrapper .widget.widget_pages ul > li > a:hover{
+	background: #EF5350;
+}
+.rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current:after, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current:after, .woocommerce .widget_price_filter .price_slider_amount > input:hover{
+	border-color: #EF5350;
+} 
+.rock_about_offer:hover .rock_service_icon svg polygon,
+.rock_about_offer:hover .rock_service_icon svg rect,
+.rock_about_offer:hover .rock_service_icon svg {
+    fill: #EF5350;
+}
+/* common  css end */
+
+#rock_header {
+	background: #EF5350;
+}
+.rock_header_fixed {
+	background: #EF5350 !important;
+}
+#rock_header_otherpage {
+	background: #EF5350;
+}
+.rockon_sidebar_wrapper .widget ul li a:hover{
+	color: #EF5350;
+}
+.rockon_sidebar_wrapper .widget.widget_pages ul > li > a:hover{
+	color: #fff;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li > span:after {
+	border-bottom: 10px solid #EF5350;
+}
+.rock_comment_main a, .comment-form a, .rock_leave_comment a, .rock_comment a {
+	color: #EF5350;
+}
+.rock_comment_main a:hover, .comment-form a:hover, .rock_leave_comment a:hover, .rock_comment a:hover {
+	color: #EF5350;
+}
+.rock_contact_detail {
+	background: #EF5350;
+}
+.rock_contact_detail:after {
+	border-top-color: #EF5350;
+}
+.rock_welcome_note {
+	background: none;
+}
+.modal-content {
+	border: 1px solid #EF5350;
+	box-shadow: 0px 0px 7px 0px #EF5350 !important;
+}
+.rating-star {
+	background: url('../../images/icon/star0.png') 0 -16px;
+}
+.close {
+	color: #EF5350;
+	text-shadow: 0 1px 0 #EF5350;
+}
+.close:hover, .close:focus {
+	color: #EF5350;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background-color: #EF5350;
+} 
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default, .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current, .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current {
+	background: #EF5350;
+}
+.rock_menu ul li a:after {
+	background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #EF5350, rgba(0, 0, 255, 0) 100%);
+	background: -moz-radial-gradient(50% 8%, ellipse closest-side, #EF5350, rgba(0, 0, 255, 0) 100%);
+	background: -ms-radial-gradient(50% 8%, ellipse closest-side, #EF5350, rgba(0, 0, 255, 0) 100%);
+	background: -o-radial-gradient(50% 8%, ellipse closest-side, #EF5350, rgba(0, 0, 255, 0) 100%);
+}
+.rockon_sidebar_wrapper .widget table tbody td#today {
+	background-color: #EF5350;
+}
+.rock_service:hover > .rock_service_icon > svg {
+	fill: #EF5350;
+}
+.rock_service:hover > .rock_service_icon {
+	border-color: #EF5350;
+}
+.rock_service:hover > .rock_service_read_more > a {
+	color: #EF5350;
+}
+.rock_service:hover > .rock_service_read_more > a > svg {
+	fill: #EF5350;
+}
+.rock_service:hover > .rock_service_read_more {
+	border-bottom: 2px solid #EF5350;
+}
+.rock_heading p {
+	color: #EF5350;
+}
+.rock_heading p:after{
+	border-bottom-color:#EF5350;
+}
+.rock_heading h1:after {
+	border-bottom: 1px solid #EF5350;
+}
+.rock_footer .widget .tagcloud a:hover {
+	border-color: #EF5350;
+	color: #EF5350;
+}
+.rock_footer .widget table tbody td#today {
+	background-color: #EF5350;
+}
+.portfolio-filter li a:hover, .portfolio-filter li a.active {
+	color: #EF5350;
+	text-decoration: none;
+}
+.rock_pager ul li:last-child {
+	color: #EF5350;
+}
+.label-default { 
+	color: #EF5350;
+}
+.rock_event .rock_event_tab ul li a.active p {
+	color: #EF5350;
+}
+.rock_event .rock_event_tab ul li:hover {
+	border-left: 2px solid #EF5350;
+}
+.rock_event .rock_event_tab {
+	border-right: 2px solid #EF5350;
+}
+.rock_event .rock_event_tab ul li:hover a {
+	color: #EF5350;
+}
+.rock_event .rock_event_tab ul li a.active:before {
+	border-left: 10px solid #EF5350;
+}
+.rock_event .rock_event_tab ul li a:hover:before {
+	border-left: 10px solid #EF5350;
+}
+.rock_event .rock_event_tab_content_main .rock_event_tab_content .rock_event_detail h1 {
+	color: #EF5350;
+}
+.rock_event .rock_event_tab_content_main .rock_event_tab_content .rock_event_detail h4 {
+	color: #EF5350;
+}
+.rock_social ul li a:hover {
+	background: #EF5350;
+}
+.rock_event_time ul li a:hover {
+	border-left: 2px solid #EF5350;
+}
+.photo_link a:hover {
+	color: #EF5350;
+	border-color: #EF5350;
+}
+.photo_link a:hover i {
+	color: #EF5350;
+}
+.rock_club_photo_detail {
+	background: #EF5350;
+}
+.rock_slider_button:hover {
+	border-color: #EF5350;
+	color: #EF5350;
+}
+.rock_audio_player .rock_audio_player_title .track_artist {
+	color: #EF5350;
+}
+.rock_track_playlist ul li .rock_track_detail a.rock_track_play:hover {
+	color: #EF5350;
+	border-color: #EF5350;
+}
+.rock_audio_player .mejs-container .mejs-controls {
+	background: #EF5350;
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(rgba(120, 112, 232, 0.7)), to(#B389F9));
+	background: -webkit-linear-gradient(top, rgba(120, 112, 232, 0.7), #B389F9);
+	background: -moz-linear-gradient(top, rgba(120, 112, 232, 0.7), #B389F9);
+	background: -o-linear-gradient(top, rgba(120, 112, 232, 0.7), #B389F9);
+	background: -ms-linear-gradient(top, rgba(120, 112, 232, 0.7), #B389F9);
+	background: linear-gradient(top, rgba(120, 112, 232, 0.7), #B389F9);
+}
+#rock_track_playlist_slider_next:hover i {
+	border-color: #EF5350;
+	color: #EF5350;
+}
+#rock_track_playlist_slider_prev:hover i {
+	border-color: #EF5350;
+	color: #EF5350;
+}
+.rock_twitter_feed ul li i {
+	background: #EF5350;
+}
+.rock_twitter_feed ul li .rock_feed {
+	border-left: 2px solid #EF5350;
+}
+.rock_menu_toggle {
+	border: 1px solid #EF5350;
+}
+.rock_pager ul li:last-child a {
+	color: #EF5350;
+}
+.form-control:hover, .form-control:focus {
+	border-color: #EF5350;
+}
+.rock_categories ul li a:hover {
+	color: #EF5350;
+}
+.blog_entry_meta ul li a i {
+	color: #EF5350;
+}
+.rock_tag ul li a:hover {
+	border-color: #EF5350;
+	color: #EF5350;
+}
+.rock_pagination ul li.active a {
+	color: #EF5350;
+	border-color: #EF5350;
+}
+.rock_pagination ul li a:hover {
+	color: #EF5350;
+	border-color: #EF5350;
+}
+.rock_comment:hover {
+	border-color: #EF5350;
+}
+.rock_comment:hover a.btn {
+	border-color: #EF5350;
+}
+.rockon_service:hover .rock_service_icon rect, .rockon_service:hover .rock_service_icon circle, .rockon_service:hover .rock_service_icon ellipse, .rockon_service:hover .rock_service_icon line, .rockon_service:hover .rock_service_icon polyline, .rockon_service:hover .rock_service_icon polygon, .rockon_service:hover .rock_service_icon path, .rockon_service:hover .rock_service_icon svg {
+	fill: #EF5350;
+}
+.rockon_service:hover .rock_service_icon {
+	border-color: #EF5350;
+}
+.rockon_service:hover h3 {
+	color: #EF5350;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #EF5350;
+}
+.btn-link {
+	color: #EF5350;
+}
+.btn-link:hover, .btn-link:focus {
+	color: #EF5350;
+}
+.pricing:hover h4 {
+	color: #EF5350;
+}
+.pricing-content li i {
+	color: #EF5350;
+}
+.rock_404 h1 {
+	color: #EF5350;
+}
+.rock-icon-list .fa-hover a:hover {
+	background-color: #EF5350;
+}
+.main_gallery_item_popup h1 {
+	color: #EF5350;
+}
+.main_gallery_item_popup h4 {
+	color: #EF5350;
+}
+ @media (max-width: 767px) and (min-width: 480px) {
+.rock_menu ul {
+	border: 1px solid #EF5350;
+}
+.rock_menu ul li a:hover {
+	background: #EF5350;
+}
+.rock_menu ul li ul {
+	background: #EF5350;
+}
+.rock_menu ul li ul li a:hover {
+	background: #EF5350;
+}
+}
+ @media (max-width: 479px) {
+.rock_menu ul {
+	border: 1px solid #EF5350;
+}
+.rock_menu ul li a:hover {
+	background: #EF5350;
+}
+.rock_menu ul li ul {
+	background: #EF5350;
+}
+.rock_menu ul li ul li a:hover {
+	background: #EF5350;
+}
+.rock_event .rock_event_tab ul li a.active:before, .rock_event .rock_event_tab ul li a:hover:before {
+	border-top: 1px solid #EF5350;
+}
+.rock_track_playlist ul li .rock_track_detail a.rock_track_play {
+	color: #EF5350;
+}
+}
+/*****************woocommerce color css start**************************/
+.unstyled > li.active, .unstyled > li:hover {
+	color: #EF5350;
+	border: 1px solid #EF5350;
+}
+.products .product-image .tag {
+	border-top: 37px solid #EF5350;
+}
+.star-rating span:before {
+	color: #EF5350;
+}
+.products .product-info .product-price .price {
+	color: #EF5350;
+}
+.btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+	border-color: #EF5350 !important;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background-color: #EF5350 !important;
+	color: #FFF !important;
+}
+.woocommerce .woocommerce-message {
+	border-top-color: #EF5350;
+}
+.woocommerce .woocommerce-message:before {
+	color: #EF5350;
+}
+.woocommerce .woocommerce-info:before {
+	color: #EF5350;
+}
+.number .minus:hover, .number .plus:hover {
+	border: 1px solid #EF5350;
+	color: #EF5350;
+}
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #EF5350;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+	color: #EF5350;
+}
+.product > .tag {
+	border-top: 37px solid #EF5350;
+}
+.woocommerce form .form-row input.input-text:hover, .woocommerce form .form-row input.input-text:focus, .woocommerce form .form-row textarea:hover, .woocommerce form .form-row textarea:focus {
+	border-color: #EF5350;
+}
+.rockon_sidebar_wrapper .woocommerce.widget_product_search input:hover, .rockon_sidebar_wrapper .woocommerce.widget_product_search input:focus {
+	border-color: #EF5350;
+}
+.woocommerce .widget_shopping_cart .total strong, .woocommerce.widget_shopping_cart .total strong {
+	color: #EF5350;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #EF5350;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background-color: #EF5350;
+}
+.rockon_sidebar_wrapper .woocommerce.widget_products ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_recently_viewed_products ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_recent_reviews ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_top_rated_products ul li a:hover {
+	color: #EF5350;
+}
+.products .cart a {
+	background-color: #EF5350;
+}
+.products .product-image .image .image_overlay .photo_link a:hover {
+	border: 2px solid #EF5350;
+	color: #EF5350;
+}
+.product_list_wrapper .products .cart a:hover {
+	color: #EF5350 !important;
+	border-color: #EF5350 !important;
+}
+
+/*****************woocommerce color css end**************************/

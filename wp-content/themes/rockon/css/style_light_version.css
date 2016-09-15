@@ -1,0 +1,639 @@
+/* Copyright (c) 2016 Himanshu Softtech.
+------------------------------------------------------------------
+Main Style for Rockon light version 
+[Table of contents]
+-------------------------------------------------------------------*/
+/* common color style start */
+#rock_header, #rock_header_otherpage, #rock_header.rock_header_fixed, .rock_club_photo_detail, .rock_social ul li a:hover, .rock_twitter_feed ul li i, .rockon_sidebar_wrapper .widget.widget_pages ul > li > a:hover, .rock_main_event:hover .rock_event_date .event_date, .rock_contact_detail{
+	background: #E91E63;
+}
+.rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current:before, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current:before, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current, .rockon_sidebar_wrapper .widget #recentcomments li, .rockon_sidebar_wrapper .widget .tagcloud a, .rockon_sidebar_wrapper .widget.widget_meta ul li a, .comment-form input[type='submit'], .rockon_sidebar_wrapper .widget table tbody td#today{
+	background-color: #E91E63;
+}
+a, .rockon_service:hover h3, .rock_event .rock_event_tab ul li a.active p, .rock_event .rock_event_tab ul li:hover a, .blog_entry_meta ul li a i, .photo_link a:hover, .photo_link a:hover i, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, #rock_track_playlist_slider_prev:hover i, #rock_track_playlist_slider_next:hover i, .rock_audio_player .audio-player .mejs-container .mejs-controls .mejs-time span, .rock_footer h3, .label-default, .rock_pager ul li:last-child, .rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > a:hover, .rock_track_detail a.rock_track_play:hover, .carousel-caption .btn:hover, .rockon_no_comments > h5, .rockon_no_comments > i, .rock_audio_player .rock_audio_player_title .track_artist, .rock_slider_button:hover, .portfolio-filter li a:hover, .portfolio-filter li a.active, #style-switcher .bottom a.settings i, .rock_pager ul li:last-child a, .rock_audio_player.rock_video_player .audio-player .mejs-container .mejs-controls div.mejs-time.mejs-duration-container:before, .rockon_sidebar_wrapper .widget ul li a:hover{
+	color:#E91E63; 
+}
+.rockon_service:hover .rock_service_icon, .rock_event .rock_event_tab, .photo_link a:hover, .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default, #rock_track_playlist_slider_prev:hover i, #rock_track_playlist_slider_next:hover i, .rock_audio_player .audio-player .mejs-controls div.mejs-time-rail .mejs-time-current:after, .rock_audio_player .audio-player .mejs-container .mejs-controls a.mejs-horizontal-volume-slider .mejs-horizontal-volume-current:after, .rock_twitter_feed ul li .rock_feed, .form-control:hover, .form-control:focus, .rock_track_detail a.rock_track_play:hover, .carousel-caption .btn:hover, .rock_slider_button:hover{
+	border-color:#E91E63;
+}
+
+.rock_about_offer .rock_service_icon svg polygon,
+.rock_about_offer .rock_service_icon svg rect,
+.rock_about_offer .rock_service_icon svg{
+	fill: #424242;
+}
+.rock_about_offer:hover .rock_service_icon svg polygon,
+.rock_about_offer:hover .rock_service_icon svg rect,
+.rock_about_offer:hover .rock_service_icon svg{
+	fill: #E91E63;
+}
+
+/* common color style end */
+
+::selection{
+	background: #E91E63;
+	color:#ffffff;
+}
+body{
+	background-image:none;
+	color: #757575;
+	background-color: #FAFAFA;
+}
+a:hover, a:focus{
+	color: #1d1d1d;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	color: #424242;
+	font-weight: 300;
+}
+
+#preloader{
+	background-color: #F5F5F5;
+}
+#style-switcher .bottom a.settings,
+#style-switcher{
+	background:#ffffff;
+	border-right:none;
+    -webkit-box-shadow: 5px 5px 30px -10px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 5px 5px 30px -10px rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 30px -10px rgba(0, 0, 0, 0.3);	
+}
+#style-switcher > div > h3 {
+    color: #424242;	
+}
+ul.colors li #light_color1 {
+	background: #C8AB65;
+}
+ul.colors li #light_color2 {
+	background: #F06292;
+}
+ul.colors li #light_color3 {
+	background: #17c2d8;
+}
+ul.colors li #light_color4 {
+	background: #9575CD;
+}
+ul.colors li #light_color5 {
+	background: #EF5350;
+}
+ul.colors li #style_light_version {
+	background: #E91E63;
+}
+ul.pattern li #light_pattern1 {
+	background: url(../images/patern/light_patern1.jpg);
+}
+ul.pattern li #light_pattern2 {
+	background: url(../images/patern/light_patern2.jpg);
+}
+ul.pattern li #light_pattern3 {
+	background: url(../images/patern/light_patern3.jpg);
+}
+ul.pattern li #light_pattern4 {
+	background: url(../images/patern/light_patern4.gif);
+}
+ul.pattern li #light_pattern5 {
+	background: url(../images/patern/light_patern5.gif);
+}
+
+.rock_logo_slider:after{
+	background-image:none;
+}
+.rockon_player .mejs-container .mejs-controls{
+	background-color: #424242;
+	box-shadow:none;
+}
+
+.rock_menu ul > li > a{
+	color:#ffffff;
+}
+.rock_menu ul > li > ul > li > a{
+	color: #9e9e9e;
+    font-size: 13px;
+	letter-spacing: 1px;
+	font-weight: 600;
+}
+.rock_menu ul > li > ul > li > a:hover{
+	color:#ffffff;
+}
+.rock_menu ul > li > a:after {
+	background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #ffffff, rgba(0, 0, 255, 0) 100%);
+	background: -moz-radial-gradient(50% 8%, ellipse closest-side, #ffffff, rgba(0, 0, 255, 0) 100%);
+	background: -ms-radial-gradient(50% 8%, ellipse closest-side, #ffffff, rgba(0, 0, 255, 0) 100%);
+	background: -o-radial-gradient(50% 8%, ellipse closest-side, #ffffff, rgba(0, 0, 255, 0) 100%);
+}
+.rock_slider_div > .rock_slider{
+	background-image: url(../images/bg/slider_bg_overlay_light.png);
+}
+.carousel-caption .btn{
+	border:1px solid #212121;
+	color: #212121;
+	height:auto;
+	line-height:inherit;
+	background-color:transparent; 
+}
+.carousel-caption{
+	color: #212121;
+	text-shadow:none;
+}
+
+.rockon_container{
+    background-image: none;	
+}
+.rockon_container:before, .rockon_container:after{
+	content:"";
+	position:absolute;
+	left:0;
+	right:0;
+	background-color:#EEEEEE;
+	z-index:-1;
+}
+.rockon_container:before{
+	top:0;
+	height:480px;
+}
+.rockon_container:after{
+	bottom:0;
+	height:250px;
+}
+.rock_welcome_note{
+    background: #EEEEEE;	
+}
+
+.rock_heading p{
+	color: #212121;
+	font-weight: 300;
+    font-size: 20px;	
+}
+.rock_heading p:after{
+	top: 13px;
+	margin-left: -25px;
+	border-bottom: 2px solid #424242;
+	width: 50px;
+	height: 2px;
+}
+.rockon_service{
+	background: #f7f6f6;
+	border: 1px solid rgba(0, 0, 0, 0.15);
+	box-shadow: 0px 0px 60px -20px rgba(0, 0, 0, 0.12);
+}
+.rockon_service:hover{
+	border: 1px solid #8a8a8a;
+	box-shadow: 0px 0px 60px -20px rgba(0, 0, 0, 0.12);
+}
+.rockon_service .rock_service_icon{
+	border-color: #424242;
+}
+.rockon_service .rock_service_icon rect, .rockon_service .rock_service_icon circle, .rockon_service .rock_service_icon ellipse, .rockon_service .rock_service_icon line, .rockon_service .rock_service_icon polyline, .rockon_service .rock_service_icon polygon, .rockon_service .rock_service_icon path, .rockon_service .rock_service_icon svg{
+	fill:#424242;
+}
+.rockon_service:hover .rock_service_icon rect, .rockon_service:hover .rock_service_icon circle, .rockon_service:hover .rock_service_icon ellipse, .rockon_service:hover .rock_service_icon line, .rockon_service:hover .rock_service_icon polyline, .rockon_service:hover .rock_service_icon polygon, .rockon_service:hover .rock_service_icon path, .rockon_service:hover .rock_service_icon svg{
+	fill: #E91E63;
+}
+.rockon_service p{
+	color:inherit;
+}
+.rock_divider{
+	background-color: #cacaca;
+	margin: 20px auto;
+}
+.rock_blog_single hr,
+.rock_blog_detail hr{
+	border-color: #cacaca;
+}
+.rock_event .rock_event_tab_content_main .rock_event_tab_content{
+    background: #eeeeee;	
+}
+.rock_event .rock_event_tab ul li{
+	background: #eeeeee;
+	border-bottom-color:#ffffff;
+	padding: 11.6px 0px;
+}
+.rock_event .rock_event_tab ul li:hover{
+	border-bottom-color:#ffffff;
+	border-left-color:#E91E63;
+}
+.rock_event .rock_event_tab ul li a p{
+	color:inherit;
+}
+.rock_event .rock_event_tab ul li a p.rock_event_date{
+	color:inherit;
+	font-weight: 300;
+}
+.rock_event .rock_event_tab ul li a p.rock_event_month{
+	font-size: 11px;
+	font-weight: 500;
+    letter-spacing: 1px;
+}
+.rock_event .rock_event_tab ul li a.active:before,
+.rock_event .rock_event_tab ul li:hover a:before{
+	border-left: 10px solid #E91E63;
+}
+
+#rock_track_playlist_slider_prev i, #rock_track_playlist_slider_next i{
+	border-color:#424242;
+	color:#424242;
+}
+.rock_audio_player_wrapper{
+	background: #eeeeee;
+}
+.rock_track_playlist ul li{
+	border-bottom: 1px solid #d6d6d6;
+}
+.rock_track_playlist ul li .rock_track_detail a.rock_track_title{
+	color: #424242;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.rock_track_detail a.rock_track_play{
+	height:auto;
+	line-height:inherit;
+	background-color:#ffffff;
+	padding:10px 30px;	
+	border:1px solid transparent;
+}
+.rock_audio_player{
+	background-color: #ffffff;
+	-webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+}
+.rock_audio_player .audio-player .mejs-container .mejs-controls{
+	background-color: #ffffff;
+}
+
+.rock_audio_player .audio-player .mejs-container .mejs-controls .mejs-time span{
+	font-weight: 600;
+}
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-volume-button,
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-playpause-button.mejs-pause,
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-playpause-button.mejs-play{
+	-webkit-filter: invert(0.76);
+	-moz-filter: invert(0.76);
+	filter: invert(0.76);
+}
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-prevtrack-button:hover{
+	background-image: url(../images/icon/Backward.svg);
+}
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-nexttrack-button:hover{
+	background-image: url(../images/icon/Forward.svg);
+}
+
+.rock_audio_player .audio-player .mejs-container .mejs-controls div.mejs-shuffle-button.mejs-shuffle-on{
+	background-image: url(../images/icon/shuffle_v1.svg);
+}
+
+.rock_page_title_main{
+	background-color: #212121;
+}
+.rock_page_title_main .rock_heading h1, .rock_page_title_main .rock_heading p{
+	color:#ffffff;
+}
+.rock_page_title_main  .rock_heading p:after{
+	border-color:#ffffff;
+}
+.rock_comment_main .rock_heading p:after{
+    top: 10px;	
+}
+.rock_comment_main #respond .rock_heading p:after{
+	top: 13px;
+}
+.rock_page_title_main .rock_page_title{
+	color:#ffffff;
+	font-weight:400;
+}
+.rock_pager ul li a{
+	font-weight: 400;
+}
+.rock_pager ul li, 
+.rock_pager ul li strong{
+	font-weight: 600;
+}
+.form-control{
+	color: #424242;
+	border-color: transparent;
+    background-color: #eeeeee;
+	font-size: 16px;
+}
+.form-control::-moz-placeholder {
+	color: #424242;
+	opacity: 1;
+}
+.form-control:-ms-input-placeholder {
+	color: #424242;
+}
+.form-control::-webkit-input-placeholder {
+	color: #424242;
+}
+
+.btn, .btn-arrow{
+	background-color: #e91e63;
+    border:none;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 1px;	
+	line-height: 42px;
+}
+.btn:hover, .btn-arrow:hover, .btn:focus, .btn-arrow:focus{
+	border-color:transparent;
+	color:#ffffff;
+}
+.btn-arrow:hover, .btn-arrow:focus{
+	box-shadow:inset 0 -42px #424242; 
+}
+.icon-arrow-right:before{
+	background:none;
+	content:"\f178";
+	display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	height: auto;
+    top: 14px;
+}
+
+.rock_slider_button{
+	border-color:#424242;
+    color: #424242;	
+}
+.fancybox-overlay{
+	background: rgba(255, 255, 255, 0.9) !important;
+}
+.rock_dj_profile{
+	background:none;
+}
+.fancybox-close{
+	-webkit-filter:invert(1);
+	-moz-filter:invert(1);
+	filter:invert(1);
+}
+
+.rock_comment{
+	background-color:#ffffff;
+	border:none;
+	-webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.1);
+}
+.comment-form input[type='submit']{
+    border: none;
+    color: #fff;
+    height: 42px;
+    line-height: 40px;
+    padding: 0 30px;	
+	-webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+}
+.comment-form input[type='submit']:focus,
+.comment-form input[type='submit']:hover{
+	color: #fff;
+	box-shadow:inset 0 -42px #424242; 
+}
+#rockon_contactform input[type='submit']{
+	color:#ffffff;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background-color: #E91E63 !important;
+	color: #FFF !important;
+}
+.bootstrap-select > .dropdown-menu > ul > li:nth-child(2n) > a,  
+.rockon_sidebar_wrapper .widget .bootstrap-select > .dropdown-menu > ul > li:nth-child(2n) > a{
+	font-size:16px;
+	line-height:inherit;
+}
+.rockon_sidebar_wrapper .widget ul li a{
+	color: #424242;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li > a{
+	font-weight:400;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li{
+	padding:0;
+	background-color:#eeeeee;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li a{
+	padding:10px;
+	padding-bottom:22px;
+	display:block;
+	z-index: 1;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li > span{
+	background: transparent;
+    visibility: visible;
+    animation: none;
+    top: auto;
+    bottom: 3px;
+    left: 4px;
+	z-index: 0;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li:hover > span{
+	animation:none;
+}
+.rockon_sidebar_wrapper .widget.widget_recent_entries ul li > span:after{
+	display:none;
+}
+
+.rockon_sidebar_wrapper .widget.widget_calendar .calendar_wrap{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: #fff;
+    padding: 20px 0;	
+}
+.rockon_sidebar_wrapper .widget.widget_calendar .calendar_wrap table thead th{
+	font-weight:400;
+}
+.rockon_sidebar_wrapper .widget table tbody td#today{
+	color:#ffffff;
+}
+
+.rockon_sidebar_wrapper .widget #recentcomments li{
+	padding: 10px;
+    color: #ffffff;
+    margin: 0;
+	font-size: 14px;
+}
+.rockon_sidebar_wrapper .widget #recentcomments li > span{
+	color:inherit;
+	padding: 0;
+    background: transparent;
+}
+.rockon_sidebar_wrapper .widget #recentcomments li > a{
+	color:inherit;
+	font-size: 19px;
+}
+.rockon_sidebar_wrapper .widget #recentcomments li:hover{
+    opacity: 0.8;    
+}
+
+.rockon_sidebar_wrapper .widget.widget_categories ul > li{
+	background-color:transparent;
+	float: none;
+    display: inline-block;
+	padding: 0;
+	line-height: 22px;
+	font-size: 13px;
+}
+.rockon_sidebar_wrapper .widget.widget_categories ul > li > a{
+	margin-right:4px;
+	font-size: 13px;
+}
+.rockon_sidebar_wrapper .widget.widget_categories ul > li:nth-child(2n) > a{
+	font-size: 20px;
+    line-height: 22px;	
+}
+.rockon_sidebar_wrapper .widget.widget_meta ul li{
+	width:auto;
+}
+.rockon_sidebar_wrapper .widget.widget_meta ul li a{
+	border:none;
+	color:#fff;
+	height: 42px;
+    line-height: 40px;
+    padding: 0 30px;
+}
+.rockon_sidebar_wrapper .widget.widget_meta ul li a:hover{
+	color:#fff;
+	box-shadow: inset 0 -42px #424242;
+}
+.rockon_sidebar_wrapper .widget .tagcloud a{
+	border:none;
+	color:#fff;
+	height: 42px;
+    line-height: 40px;
+    padding: 0 30px;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;	
+}
+.rockon_sidebar_wrapper .widget .tagcloud a:hover{
+	box-shadow: inset 0 -42px #424242;
+	color:#fff;
+}
+.rockon_sidebar_wrapper .widget.widget_nav_menu ul > li{
+	margin:0;
+}
+.rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > a{
+	background:transparent;
+	font-size: 18px;
+    color: #212121;
+	padding-bottom:5px;
+}
+.rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > ul{
+	margin-top:0;
+	margin-bottom:10px;
+}
+.rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > ul > li > a{
+	background:none;
+	font-size:14px;
+}
+.rockon_sidebar_wrapper .widget.widget_nav_menu ul > li > ul > li > a:before{
+	content:"-";
+	margin-right:5px;
+}
+
+.rockon_sidebar_wrapper .widget.widget_pages ul > li{
+	width:auto;
+}
+.rockon_sidebar_wrapper .widget.widget_pages ul > li > a{
+	background: #c7c7c7;
+    color: #fff;
+}
+
+.main_gallery_item_popup{
+	background: #eeeeee;
+}
+.main_gallery_item_popup h1{
+	color: #424242;
+}
+
+.rock_main_event{
+    background-color: #fff;
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.26);	
+}
+.rock_event_date .event_date{
+	background: #BDBDBD;
+    margin: 20px;	
+}
+.rock_event_date .event_date p,
+.rock_event_date .event_date h1{
+	color:#ffffff;
+}
+.rock_main_event_detail .blog_entry_meta,
+.rock_main_event_detail h2{
+    margin-bottom: 15px;	
+}
+
+.rock_disc_jockcy_slider_item{
+	background-color: #fff;
+    float: left; 
+    -webkit-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.3);
+}
+.rock_disc_jockcy_slider_item img{
+	margin-bottom:0;
+}
+.rock_disc_jockcy_slider_item h4{
+    background: transparent;	
+}
+.rock_portfolio{
+	background-color: #EEEEEE;
+}
+.rock_portfolio ul li a:hover,
+.rock_portfolio ul li a.active{
+	background-color: transparent;
+}
+.rock_portfolio ul li a:hover img{
+	opacity:1;
+}
+.main_gallery_item_popup_close{
+	background-image:url(../images/icon/close_dark.svg);
+}
+div.pp_overlay{
+	background: #ffffff;
+}
+
+.rock_404 h1{
+	color:#424242;
+}
+.rock_about_offer{
+	background-color: #fff;
+	border: none;
+	box-shadow: 0px 0px 30px -10px rgba(0, 0, 0, 0.26);
+}
+.rock_contact_detail{
+	margin-bottom:0;
+	z-index:1;
+}
+.rock_contact_detail:after{
+    border-top-color: #e91e63;	
+}
+
+
+.rock_footer{
+	background: #212121;
+	color: #cecece;
+}
+.rock_footer .widget h3{
+	font-weight: 400;
+}
+.rock_twitter_feed ul li i{
+	color:#ffffff;
+}
+.rock_copyright{
+	color: #cecece;
+	background-color: #212121;
+}
+.rock_social ul li a:hover{
+	color:#ffffff;
+}
+
+
+

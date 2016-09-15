@@ -1,0 +1,110 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">services</custom-type>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">rockon_track</custom-type>
+        <custom-type translate="1">disc_jockey_team</custom-type>
+        <custom-type translate="1">rockon_event</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_categories</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="copy">rockon_page_sidebarposition</custom-field>
+        <custom-field action="copy">rockon_pagetitle</custom-field>	   
+        <custom-field action="copy">rockon_audio_src</custom-field>	   
+        <custom-field action="copy">rockon_audio_button</custom-field>	   
+        <custom-field action="copy">rockon_image_src</custom-field>	   
+        <custom-field action="copy">rockon_image_button</custom-field>	   
+        <custom-field action="copy">rockon_event_sysdesc</custom-field>	   
+        <custom-field action="copy">rockon_event_sysdate</custom-field>	   
+        <custom-field action="copy">rockon_event_systimefrom</custom-field>	   
+        <custom-field action="copy">rockon_event_systimeto</custom-field>	   
+        <custom-field action="copy">rockon_event_sysloaction</custom-field>	   
+        <custom-field action="copy">rockon_event_syscomma</custom-field>	   
+        <custom-field action="copy">rockon_event_album</custom-field>
+        <custom-field action="copy">rockon_event_Hevent_gallry</custom-field>
+        <custom-field action="copy">rockon_portfolio_relatedpost</custom-field>
+        <custom-field action="copy">rockon_post_relatedpost</custom-field>
+        <custom-field action="copy">rockon_svgiconcode</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="rockon_data">
+            <key name="rockon_landingimgswitch" />
+            <key name="rockon_landingimgurl" />
+            <key name="rockon_faviconurl" />
+            <key name="rockon_audiotrackswitch" />
+            <key name="rockon_weblogo" />
+            <key name="rockon_sidebarposition" />
+            <key name="rockon_copyrighttext" />
+            <key name="rockon_event_sharing" />
+            <key name="rockon_post_sharing" />
+            <key name="rockon_portfolio_sharing" />
+            <key name="rockon_language" />
+            <key name="rockon_googleanalytics" />
+            <key name="rockon_wel_title" />
+            <key name="rockon_wel_desc" />
+            <key name="rockon_sevices_title" />
+            <key name="rockon_sevices_post" />
+            <key name="rockon_event_title" />
+            <key name="rockon_event_post" />
+            <key name="rockon_portfolio_title" />
+            <key name="rockon_portfolio_post" />
+            <key name="rockon_portfolio_row" />
+            <key name="rockon_audiotrack_title" />
+            <key name="rockon_audiotrack_post" />
+            <key name="rockon_set_homepagesection" />
+            <key name="rockon_style_switcher_A" />
+            <key name="rockon_style_switcher_U" />
+            <key name="rockon_style_switcher_color" />
+            <key name="rockon_style_switcher_background" />
+            <key name="rockon_style_switcher_color_l" />
+            <key name="rockon_style_switcher_background_l" />
+            <key name="rockon_ownthemecolor" />
+            <key name="rockon_sliderswitch" />
+            <key name="rockon_sliderlogo" />
+            <key name="rockon_sliderslides" />
+            <key name="shortcode_Revolution" />
+            <key name="rockon_info_slidescode" />
+            <key name="rockon_slidergallery" />
+            <key name="rockon_paypalmode" />
+            <key name="rockon_paypalid" />
+            <key name="rockon_pageid" />
+            <key name="rockon_contactemailaddrs" />
+            <key name="rockon_successmessage" />
+            <key name="rockon_contactmaponoff" />
+            <key name="rockon_Latitude_Longitude" />
+            <key name="rockon_mapzoom" />
+            <key name="rockon_maptitle" />
+            <key name="rockon_contactweburl" />
+            <key name="rockon_contactphone" />
+            <key name="rockon_contactemail" />
+            <key name="rockon_contactaddress" />
+            <key name="rockon_fieldsenable_disable" />
+            <key name="rockon_fieldsrequire" />
+            <key name="rockon_cssversion" />
+            <key name="rockon_bodybackground" />
+            <key name="rockon_typographybodytext" />
+            <key name="rockon_typographybodyheading" />
+            <key name="rockon_customcss" />
+            <key name="rockon_stayconnect" />
+            <key name="rockon_fbapi" />
+            <key name="rockon_singlesharepost" />
+            <key name="rockon_facebookurl" />
+            <key name="rockon_twitterurl" />
+            <key name="rockon_linkedinurl" />
+            <key name="rockon_flickrurl" />
+            <key name="rockon_youtubeurl" />
+            <key name="rockon_dribbbleurl" />
+            <key name="rockon_gpurl" />
+            <key name="rockon_skypeurl" />
+            <key name="rockon_pinteresturl" />
+            <key name="rockon_displaysocial" />
+            <key name="woo_rockon_sidebarposition" />
+            <key name="rockon_woo_product" />
+            <key name="woo_rockon_relatedproduct" />
+            <key name="woo_rockon_no_relatedproduct" />
+            <key name="rockon_import_export" />
+        </key> 
+    </admin-texts>
+</wpml-config>

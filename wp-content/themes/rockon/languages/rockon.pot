@@ -1,0 +1,286 @@
+# Copyright (C) 2014 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: rockon 1.0-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/rockon\n"
+"POT-Creation-Date: 2014-09-11 00:43:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:30
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:81
+msgid "Footer sidebar"
+msgstr ""
+
+#: functions.php:90
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: content-single.php:48
+#: content-page.php:13
+#: content-images.php:25
+#: content-full.php:48
+#: content.php:48
+msgid "Comments"
+msgstr ""
+
+#: content-page.php:20
+#: inc/template-tags.php:135
+msgid "Edit"
+msgstr ""
+
+#: content-page.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: content-page.php:19
+msgid "Ready to publish your first post? <a href="%1$s">Get started here</a>."
+msgstr ""
+
+#: content-page.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-page.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-full.php:53
+#: content.php:53
+msgid "Read More"
+msgstr ""
+
+#: content-event.php:43
+msgid "Event Time"
+msgstr ""
+
+#: content-event.php:45
+#: content-event.php:54
+msgid "from"
+msgstr ""
+
+#: content-event.php:48
+#: content-event.php:60
+msgid "to"
+msgstr ""
+
+#: content-event.php:52
+msgid "Event Booking Time"
+msgstr ""
+
+#: content-event.php:77
+msgid "days"
+msgstr ""
+
+#: content-event.php:79
+msgid "hours"
+msgstr ""
+
+#: content-event.php:81
+msgid "minuts"
+msgstr ""
+
+#: content-event.php:82
+msgid "left"
+msgstr ""
+
+#: content-event.php:90
+msgid "Event Passed"
+msgstr ""
+
+#: content-event.php:93
+msgid "No more ticket"
+msgstr ""
+
+#: content-event.php:99
+msgid "Event Location"
+msgstr ""
+
+#: content-event.php:183
+msgid "Quantity"
+msgstr ""
+
+#: content-event.php:183
+msgid "Single Cost"
+msgstr ""
+
+#: content-event.php:183
+msgid "Total Cost"
+msgstr ""
+
+#: comments.php:33
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34
+#: comments.php:45
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:35
+#: comments.php:46
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:35
+#: comments.php:47
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:66
+msgid "No Comments Yet!"
+msgstr ""
+
+#: comments.php:73
+msgid "Your First Name"
+msgstr ""
+
+#: comments.php:74
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Website"
+msgstr ""
+
+#: comments.php:81
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave A Comment...Your data will be safe!"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave A Comment...Your data will be safe!"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "error"
+msgstr ""
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:19
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "Previous post link"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Next post link"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:119
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:125
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:131
+#: include/section-function.php:163
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:123
+#: inc/template-tags.php:117
+msgid ", "
+msgstr ""
+
+#: inc/extras.php:63
+msgid "Page %s"
+msgstr ""
+
+#: include/rockon_breadcrumb.php:57
+msgid "Search Results"
+msgstr ""
+
+#: include/rockon-comment.php:26
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: include/theme-contact-temp.php:29
+msgid "Name"
+msgstr ""
+
+#: include/theme-contact-temp.php:35
+msgid "Email"
+msgstr ""
+
+#: include/theme-contact-temp.php:35
+msgid "Phone No"
+msgstr ""
+
+#: include/theme-contact-temp.php:47
+msgid "Weburl"
+msgstr ""
+
+#: include/theme-contact-temp.php:59
+msgid "Submit Your Message"
+msgstr ""
+
+#: include/section-relatedpost.php:36
+msgid "Related"
+msgstr ""
+
+#: include/section-relatedpost.php:36
+msgid "No Realted Post Found."
+msgstr ""
+
+#: include/section-portfolio.php:16
+msgid "All"
+msgstr ""
+
+#: include/section-function.php:112
+msgid "Search Keyword"
+msgstr ""
+
+#: include/section-function.php:220
+msgid "Allowed Files"
+msgstr ""

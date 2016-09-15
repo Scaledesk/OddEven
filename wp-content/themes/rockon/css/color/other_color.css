@@ -1,0 +1,348 @@
+/*
+Copyright (c) 2016 Himanshu Softtech.
+------------------------------------------------------------------
+Other color style
+-------------------------------------------------------------------*/
+::selection {
+	color: #FFF;
+	background: #fff53a;
+}
+a {
+	color: #fff53a;
+}
+a:hover, a:focus {
+	color: #fff53a;
+}
+.modal-content {
+	border: 1px solid #fff53a;
+	box-shadow: 0px 0px 7px 0px #fff53a !important;
+}
+.rating-star {
+	background: url('../../images/icon/star0.png') 0 -16px;
+}
+.icon-arrow-right:before {
+	background: url(../../images/icon/botton_arrow0.png) no-repeat;
+}
+.close {
+	color: #fff53a;
+	text-shadow: 0 1px 0 #fff53a;
+}
+.close:hover, .close:focus {
+	color: #fff53a;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background-color: #fff53a;
+}
+.rockon_sidebar_wrapper .widget #recentcomments li > span {
+	color: #fff53a;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default, .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current, .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box >div >div.xdsoft_current {
+	background: #fff53a;
+}
+.rock_menu ul li a:after {
+	background: -webkit-radial-gradient(50% 50%, ellipse closest-side, #fff53a, rgba(0, 0, 255, 0) 100%);
+	background: -moz-radial-gradient(50% 8%, ellipse closest-side, #fff53a, rgba(0, 0, 255, 0) 100%);
+	background: -ms-radial-gradient(50% 8%, ellipse closest-side, #fff53a, rgba(0, 0, 255, 0) 100%);
+	background: -o-radial-gradient(50% 8%, ellipse closest-side, #fff53a, rgba(0, 0, 255, 0) 100%);
+}
+.rockon_sidebar_wrapper .widget table tbody td#today {
+	background-color: #fff53a;
+}
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+	color: #fff53a;
+	border-color: #fff53a;
+}
+.rock_service:hover > .rock_service_icon > svg {
+	fill: #fff53a;
+}
+.rock_service:hover > .rock_service_icon {
+	border-color: #fff53a;
+}
+.rock_service:hover > .rock_service_read_more > a {
+	color: #fff53a;
+}
+.rock_service:hover > .rock_service_read_more > a > svg {
+	fill: #fff53a;
+}
+.rock_service:hover > .rock_service_read_more {
+	border-bottom: 2px solid #fff53a;
+}
+.rock_heading p {
+	color: #fff53a;
+}
+.rock_heading h1:after {
+	border-bottom: 1px solid #fff53a;
+}
+.rock_heading p:after {
+	border-bottom: 1px solid #fff53a;
+}
+.rock_footer .widget .tagcloud a:hover {
+	border-color: #fff53a;
+	color: #fff53a;
+}
+.rock_footer .widget table tbody td#today {
+	background-color: #fff53a;
+}
+.portfolio-filter li a:hover, .portfolio-filter li a.active {
+	color: #fff53a;
+	text-decoration: none;
+}
+.rock_pager ul li:last-child {
+	color: #fff53a;
+}
+.mejs-controls .mejs-time-rail .mejs-time-loaded {
+	background: #fff53a !important;
+}
+.label-default {
+	color: #fff53a;
+}
+.rock_event .rock_event_tab ul li a.active p {
+	color: #fff53a;
+}
+.rock_event .rock_event_tab ul li:hover {
+	border-left: 2px solid #fff53a;
+}
+.rock_event .rock_event_tab {
+	border-right: 2px solid #fff53a;
+}
+.rock_event .rock_event_tab ul li:hover a {
+	color: #fff53a;
+}
+.rock_event .rock_event_tab ul li a.active:before {
+	border-left: 10px solid #fff53a;
+}
+.rock_event .rock_event_tab ul li a:hover:before {
+	border-left: 10px solid #fff53a;
+}
+.rock_event .rock_event_tab_content_main .rock_event_tab_content .rock_event_detail h1 {
+	color: #fff53a;
+}
+.rock_event .rock_event_tab_content_main .rock_event_tab_content .rock_event_detail h4 {
+	color: #fff53a;
+}
+.rock_social ul li a:hover {
+	background: #fff53a;
+}
+.rock_event_time ul li a:hover {
+	border-left: 2px solid #fff53a;
+}
+.photo_link a:hover {
+	color: #fff53a;
+	border-color: #fff53a;
+}
+.photo_link a:hover i {
+	color: #fff53a;
+}
+.rock_club_photo_detail {
+	background: #fff53a;
+}
+.rock_slider_button:hover {
+	border-color: #fff53a;
+}
+.rock_audio_player .rock_audio_player_title .track_artist {
+	color: #fff53a;
+}
+#rock_track_playlist_slider_next:hover i {
+	border-color: #fff53a;
+	color: #fff53a;
+}
+#rock_track_playlist_slider_prev:hover i {
+	border-color: #fff53a;
+	color: #fff53a;
+}
+.rock_footer h3 {
+	color: #fff53a;
+}
+.rock_twitter_feed ul li i {
+	background: #fff53a;
+}
+.rock_twitter_feed ul li .rock_feed {
+	border-left: 2px solid #fff53a;
+}
+.rock_menu_toggle {
+	border: 1px solid #fff53a;
+}
+.rock_pager ul li:last-child a {
+	color: #fff53a;
+}
+.form-control:hover, .form-control:focus {
+	border-color: #fff53a;
+}
+.rock_categories ul li a:hover {
+	color: #fff53a;
+}
+.blog_entry_meta ul li a i {
+	color: #fff53a;
+}
+.btn-arrow:hover {
+	border-color: #fff53a !important;
+	color: #fff53a !important;
+}
+.rock_tag ul li a:hover {
+	border-color: #fff53a;
+	color: #fff53a;
+}
+.rock_pagination ul li.active a {
+	color: #fff53a;
+	border-color: #fff53a;
+}
+.rock_pagination ul li a:hover {
+	color: #fff53a;
+	border-color: #fff53a;
+}
+.rock_comment:hover {
+	border-color: #fff53a;
+}
+.rock_comment:hover a.btn {
+	border-color: #fff53a;
+}
+.rock_event_date .event_date h1 {
+	color: #fff53a;
+}
+.rock_event_date .event_date p {
+	color: #fff53a;
+}
+.rockon_service:hover .rock_service_icon rect, .rockon_service:hover .rock_service_icon circle, .rockon_service:hover .rock_service_icon ellipse, .rockon_service:hover .rock_service_icon line, .rockon_service:hover .rock_service_icon polyline, .rockon_service:hover .rock_service_icon polygon, .rockon_service:hover .rock_service_icon path, .rockon_service:hover .rock_service_icon svg {
+	fill: #fff53a;
+}
+.rockon_service:hover .rock_service_icon {
+	border-color: #fff53a;
+}
+.rockon_service:hover h3 {
+	color: #fff53a;
+}
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: #fff53a;
+}
+.btn-link {
+	color: #fff53a;
+}
+.btn-link:hover, .btn-link:focus {
+	color: #fff53a;
+}
+.pricing:hover h4 {
+	color: #fff53a;
+}
+.pricing-content li i {
+	color: #fff53a;
+}
+.rock_404 h1 {
+	color: #fff53a;
+}
+.rock-icon-list .fa-hover a:hover {
+	background-color: #fff53a;
+}
+.main_gallery_item_popup h1 {
+	color: #fff53a;
+}
+.main_gallery_item_popup h4 {
+	color: #fff53a;
+}
+.comment-form input[type='submit']:hover, .comment-form input[type='submit']:focus {
+	color: #fff53a;
+	border-color: #fff53a;
+}
+.rockon_sidebar_wrapper .widget .tagcloud a:hover {
+	border-color: #fff53a;
+	color: #fff53a;
+}
+ @media (max-width: 767px) and (min-width: 480px) {
+.rock_menu ul {
+	border: 1px solid #fff53a;
+}
+.rock_menu ul li a:hover {
+	background: #fff53a;
+}
+.rock_menu ul li ul {
+	background: #fff53a;
+}
+.rock_menu ul li ul li a:hover {
+	background: #fff53a;
+}
+}
+ @media (max-width: 479px) {
+.rock_menu ul {
+	border: 1px solid #fff53a;
+}
+.rock_menu ul li a:hover {
+	background: #fff53a;
+}
+.rock_menu ul li ul {
+	background: #fff53a;
+}
+.rock_menu ul li ul li a:hover {
+	background: #fff53a;
+}
+.rock_event .rock_event_tab ul li a.active:before, .rock_event .rock_event_tab ul li a:hover:before {
+	border-top: 1px solid #fff53a;
+}
+.rock_track_playlist ul li .rock_track_detail a.rock_track_play {
+	color: #fff53a;
+}
+}
+/*****************woocommerce color css start**************************/
+.unstyled > li.active, .unstyled > li:hover {
+	color: #fff53a;
+	border: 1px solid #fff53a;
+}
+.products .product-image .tag {
+	border-top: 37px solid #fff53a;
+}
+.star-rating span:before {
+	color: #fff53a;
+}
+.products .product-info .product-price .price {
+	color: #fff53a;
+}
+.btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+	border-color: #fff53a !important;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+	background-color: #fff53a !important;
+	color: #FFF !important;
+}
+.woocommerce .woocommerce-message {
+	border-top-color: #fff53a;
+}
+.woocommerce .woocommerce-message:before {
+	color: #fff53a;
+}
+.woocommerce .woocommerce-info:before {
+	color: #fff53a;
+}
+.number .minus:hover, .number .plus:hover {
+	border: 1px solid #fff53a;
+	color: #fff53a;
+}
+.woocommerce div.product p.price, .woocommerce div.product span.price {
+	color: #fff53a;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active a {
+	color: #fff53a;
+}
+.product > .tag {
+	border-top: 37px solid #fff53a;
+}
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover {
+	color: #fff53a !important;
+	border-color: #fff53a;
+}
+.woocommerce form .form-row input.input-text:hover, .woocommerce form .form-row input.input-text:focus, .woocommerce form .form-row textarea:hover, .woocommerce form .form-row textarea:focus {
+	border-color: #fff53a;
+}
+.rockon_sidebar_wrapper .woocommerce.widget_product_search input:hover, .rockon_sidebar_wrapper .woocommerce.widget_product_search input:focus {
+	border-color: #fff53a;
+}
+.woocommerce .widget_shopping_cart .total strong, .woocommerce.widget_shopping_cart .total strong {
+	color: #fff53a;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {
+	background-color: #fff53a;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range {
+	background-color: #fff53a;
+}
+.rockon_sidebar_wrapper .woocommerce.widget_products ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_recently_viewed_products ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_recent_reviews ul li a:hover, .rockon_sidebar_wrapper .woocommerce.widget_top_rated_products ul li a:hover {
+	color: #fff53a;
+}
+/*****************woocommerce color css end**************************/
